@@ -1,0 +1,24 @@
+.blue {
+  color:blue;
+}
+
+.pink {
+  color:pink;
+}
+
+.purple {
+  color:purple;
+}
+
+.deeppink {
+  color:deeppink;
+}
+
+/* Default paragraph element font size is 16px */
+.smallfont {
+  font-size:13px;
+}
+
+span {
+  font-style:italic;
+}
